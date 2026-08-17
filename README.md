@@ -6,7 +6,7 @@ realistic FEM head model.
 
 **Author:** Abdel Rahman Mousa
 **Supervisor:** Prof. William Holderbaum
-**Module:** BI3RP3 Final-Year Research Project, BSc Biomedical Engineering, University of Reading
+**Module:** BI3RP3 Final-Year Research Project, BEng Biomedical Engineering, University of Reading
 **Year:** 2025–2026
 
 ## Project summary
